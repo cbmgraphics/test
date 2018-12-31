@@ -80,6 +80,7 @@
 .appMount-3VJmYg {
     background-position: 50% 50%!important;
     background-repeat: no-repeat!important;
+    background-attachment: fixed;
     background-size: cover!important;
     background-image: var(--bgImage)!important
 }
